@@ -1,0 +1,9 @@
+# JetBrains/PyCharm IDE folders
+.idea/
+
+# Python cache
+__pycache__/
+
+# Virtual environment folder
+.venv/
+venv/
