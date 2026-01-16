@@ -7,3 +7,6 @@ __pycache__/
 # Virtual environment folder
 .venv/
 venv/
+
+# prevent tickets.json file from being commited as it contains sensitive user data
+tickets.json
