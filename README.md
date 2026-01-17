@@ -84,9 +84,8 @@ This project is open source. Created for practice/training and available for edu
 
 ## Potential future updates/enhancements:
 - Add ability to edit existing tickets
-- Implement ticket notes/comments functionality
-- Add ticket assignment to support agents
+- ticket notes/comments functionality
 - Create reporting and analytics features
 - Add email notifications
-- Implement user authentication
+- User authentication
 - Save/load Knowledge Base articles to persistent storage
